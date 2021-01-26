@@ -1,6 +1,7 @@
 /**
  * @author Ivan Petkov
- * Визуализация на Бойното поле ( Ще се радвам да покажете как се прави border, единствената идея която ми хрумна е да set-на background-a в черен цвят и да направя самите tile-ове 99px)
+ * Honestly, missed 2nd homework so I didn't have the movement ready and I've already messed this code way too much so I just displayed the 2 turtles, unfortunately
+ * I won't be able to just delete all of the existing code and starting over again. Hopefully next projects/homeworks won't be as connected as these 3
  *
  */
 
